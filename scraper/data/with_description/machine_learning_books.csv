@@ -1,0 +1,283 @@
+asin,title,author,rating,reviews,url,description
+8126579900,Machine Learning using Python,by Manaranjan Pradhan and U Dinesh Kumar | 1 January 2019,4.3 out of 5 stars,(747),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfYXRmOjIwMDIzMjY0MzkyNTA2OjowOjo&url=%2FMachine-Learning-Python-Manaranjan-Pradhan%2Fdp%2F8126579900%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-1-spons%26aref%3DaB1wHbT5FG%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=aB1wHbT5FG&sp_cr=ZAZ,"This book is written to provide a strong foundation in machine learning using Python libraries by providing real-life case studies and examples. It covers topics such as foundations of machine learning, introduction to Python, descriptive analytics and predictive analytics. Advanced machine learning concepts such as decision tree learning, random forest, boosting, recommended systems, and text analytics are covered. The book takes a balanced approach between theoretical understanding and practical applications. All the topics include real-world examples and provide step-by-step approach on how to explore, build, evaluate, and optimize machine learning models."
+8126563052,Machine Learning (in Python and R) for Dummies,by John Paul Mueller and Luca Massaron | 1 January 2016,4.4 out of 5 stars,(515),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfYXRmOjIwMDIzMjY0MzkyOTA2OjowOjo&url=%2FMachine-Learning-Python-R-Dummies%2Fdp%2F8126563052%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-2-spons%26aref%3DgB8qSrC9WS%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=gB8qSrC9WS&sp_cr=ZAZ,"Machine learning can be a mind-boggling concept for the masses, but those who are in the trenches of computer programming know just how invaluable it is. Without machine learning, fraud detection, web search results, real-time ads on web pages, credit scoring, automation and email spam filtering wouldn't be possible and this is only showcasing just a few of its capabilities. Written by two data science experts, Machine Learning For Dummies offers a much-needed entry point for anyone looking to use machine learning to accomplish practical tasks."
+9355421982,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition (Full Colour Print)",by Aurélien Géron | 10 October 2022,4.7 out of 5 stars,(368),https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982/ref=sr_1_3?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-3,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This best-selling book uses concrete examples, minimal theory, and production-ready Python frameworks--scikit-learn, Keras, and TensorFlow--to help you gain an intuitive understanding of the concepts and tools for building intelligent systems.
+
+With this updated third edition, author Aurelien Geron explores a range of techniques, starting with simple linear regression and progressing to deep neural networks. Numerous code examples and exercises throughout the book help you apply what you've learned. Programming experience is all you need to get started.
+
+Use scikit-learn to track an example machine learning project end to end
+Explore several models, including support vector machines, decision trees, random forests, and ensemble methods
+Exploit unsupervised learning techniques such as dimensionality reduction, clustering, and anomaly detection
+Dive into neural net architectures, including convolutional nets, recurrent nets, generative adversarial networks, and transformers
+Use TensorFlow and Keras to build and train neural nets for computer vision, natural language processing, generative models, and deep reinforcement learning
+Train neural nets using multiple GPUs and deploy them at scale using Google's Vertex AI"
+9362056860,Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition),by Oliver Theobald | 22 March 2024,4.4 out of 5 stars,(546),https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction/dp/9362056860/ref=sr_1_4?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-4,"Featured by Tableau as the first of ""7 Books About Machine Learning for Beginners."" Machine Learning for Absolute Beginners Third Edition has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy to follow along at home. Ready to spin up a virtual GPU instance and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there... Before you embark on your journey, there are some high-level theory and statistical principles to weave through first. But rather than spend $30-$50 USD on a thick textbook, you may want to read this book first. As a clear and concise alternative, this book provides a high-level introduction to machine learning, free downloadable code exercises, and video demonstrations."
+9368082197,"Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems (Full Colour Indian Reprint)",by Aurelien Geron | 27 October 2025,4.5 out of 5 stars,(57),https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-PyTorch/dp/9368082197/ref=sr_1_5?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-5,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+The potential of machine learning today is extraordinary, yet many aspiring developers and tech professionals find themselves daunted by its complexity. Whether you're looking to enhance your skill set and apply machine learning to real-world projects or are simply curious about how AI systems function, this book is your jumping-off place.
+
+With an approachable yet deeply informative style, author Aurelien Geron delivers the ultimate introductory guide to machine learning and deep learning. Drawing on the Hugging Face ecosystem, with a focus on clear explanations and real-world examples, the book takes you through cutting-edge tools like Scikit-Learn and PyTorch from basic regression techniques to advanced neural networks. Whether you're a student, professional, or hobbyist, you'll gain the skills to build intelligent systems.
+
+Understand ML basics, including concepts like overfitting and hyperparameter tuning
+Complete an end-to-end ML project using scikit-Learn, covering everything from data exploration to model evaluation
+Learn techniques for unsupervised learning, such as clustering and anomaly detection
+Build advanced architectures like transformers and diffusion models with PyTorch
+Harness the power of pretrained models including LLMs and learn to fine-tune them
+Train autonomous agents using reinforcement learning"
+9352134575,Introduction to Machine Learning with Python: A Guide for Data Scientists (Greyscale Indian Edition),by Andreas Muller | 1 January 2016,4.4 out of 5 stars,(777),https://www.amazon.in/Introduction-Machine-Learning-Python-Scientists/dp/9352134575/ref=sr_1_6?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-6,"Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination.
+
+You'll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Authors Andreas MŸller and Sarah Guido focus on the practical aspects of using machine learning algorithms, rather than the math behind them. Familiarity with the NumPy and matplotlib libraries will help you get even more from this book.
+
+With this book, you'll learn:
+Fundamental concepts and applications of machine learning
+Advantages and shortcomings of widely used machine learning algorithms
+How to represent data processed by machine learning, including which data aspects to focus on
+Advanced methods for model evaluation and parameter tuning
+The concept of pipelines for chaining models and encapsulating your workflow
+Methods for working with text data, including text-specific processing techniques
+Suggestions for improving your machine learning and data science skills."
+110845514X,MATHEMATICS FOR MACHINE LEARNING,"by Marc Peter Deisenroth , A. Aldo Faisal , et al. | 1 April 2020",4.4 out of 5 stars,(1K),https://www.amazon.in/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_7?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-7,"The fundamental mathematical tools needed to understand machine learning include linear algebra, analytic geometry, matrix decompositions, vector calculus, optimization, probability and statistics. These topics are traditionally taught in disparate courses, making it hard for data science or computer science students, or professionals, to efficiently learn the mathematics. This self-contained textbook bridges the gap between mathematical and machine learning texts, introducing the mathematical concepts with a minimum of prerequisites. It uses these concepts to derive four central machine learning methods: linear regression, principal component analysis, Gaussian mixture models and support vector machines. For students and others with a mathematical background, these derivations provide a starting point to machine learning texts. For those learning the mathematics for the first time, the methods help build intuition and practical experience with applying mathematical concepts. Every chapter includes worked examples and exercises to test understanding. Programming tutorials are offered on the book's web site."
+9355422679,Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (Grayscale Indian Edition),by Chip Huyen | 1 June 2022,4.6 out of 5 stars,(929),https://www.amazon.in/Designing-Machine-Learning-Systems-Production-Ready/dp/9355422679/ref=sr_1_8?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-8,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs. All Indian Reprints of O'Reilly are Printed in Grayscale.
+
+Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakeholders. Unique because they're data dependent, with data varying wildly from one use case to the next. In this book, you'll learn a holistic approach to designing ML systems that are reliable, scalable, maintainable, and adaptive to changing environments and business requirements.
+
+Author Chip Huyen, co-founder of Claypot AI, considers each design decision--such as how to process and create training data, which features to use, how often to retrain models, and what to monitor--in the context of how it can help your system as a whole achieve its objectives. The iterative framework in this book uses actual case studies backed by ample references.
+
+This book will help you tackle scenarios such as:
+
+Engineering data and choosing the right metrics to solve a business problem
+Automating the process for continually developing, evaluating, deploying, and updating models
+Developing a monitoring system to quickly detect and address issues your models might encounter in production
+Architecting an ML platform that serves across use cases
+Developing responsible ML systems"
+936444082X,"Artificial Intelligence and Machine Learning | Pradeep Singh, Tapan K Gandhi and Balasubramanian Raman","by Pradeep Singh, Tapan K Gandhi, et al. | 31 July 2025",4.4 out of 5 stars,(27),https://www.amazon.in/Artificial-Intelligence-Machine-Learning-Balasubramanian/dp/936444082X/ref=sr_1_9?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-9,"📘 About the Book / Overview
+
+This book is designed to introduce beginners to the foundational concepts and techniques that underpin AI, focusing on key concepts of Artificial Intelligence from basic to advanced. The aim is to provide a comprehensive guide that bridges theory and practice, empowering readers to harness the power of data to build intelligent solutions.
+
+Structured to facilitate a gradual and in-depth understanding, this book takes readers on a journey through the essential aspects of Artificial Intelligence, Machine Learning, and Data Science, along with important concepts such as Reinforcement Learning, Neural Networks and Deep Learning, Natural Language Processing (NLP), and advanced machine learning techniques.
+
+To enrich the learning experience, practical examples and exercises are included in every chapter. Additionally, future trends in AI are explored, encouraging continuous curiosity and exploration of new advancements in this dynamic field.
+
+
+
+✨ Salient Features
+✔️ Comprehensive textbook covering Artificial Intelligence (AI) and Machine Learning (ML).
+✔️ Aligned with the syllabi of universities across India where AI and ML are combined subjects.
+✔️ Emphasis on hands-on learning through code snippets, practical examples, and real-world case studies.
+✔️ Inclusion of the latest methodologies, tools, and trends in Data Science and AI.
+✔️ Discusses related topics such as NLP, Deep Learning, Neural Networks, Data Mining, and Data Warehousing.
+
+
+🌐 Web Supplements
+Instructor Resources:
+A wealth of information is available online through McGraw-Hill’s Connect platform: https://connect.mheducation.com
+📊 Lecture PowerPoint Slides
+📝 Solution Manual
+Student Resources:
+Available at: www.mheducation.co.in
+📂 Data Sets
+🧠 Chapter-wise Test Bank
+✔️ Answer Keys to Chapter-End Objective Questions
+💡 Hints to Chapter-End Numerical Questions
+📝 Additional Chapter-Wise Solved Examples
+🔗 Links to Reference Materials
+📚 Appendices: Linear Algebra; Probability and Statistics; Geometry and Multivariate Calculus
+
+
+📑 Table of Contents
+1️⃣ Foundations of Artificial Intelligence
+2️⃣ Intelligent Agents and Environments
+3️⃣ Search and Problem Solving
+4️⃣ Knowledge Representation and Logical Reasoning
+5️⃣ Probabilistic Reasoning and Uncertainty
+6️⃣ Machine Learning Basics and Techniques
+7️⃣ Supervised Learning Techniques
+8️⃣ Unsupervised Learning Techniques
+9️⃣ Neural Networks and Deep Learning
+🔟 Reinforcement Learning
+1️⃣1️⃣ Advanced Machine Learning Techniques
+1️⃣2️⃣ Natural Language Processing (NLP)
+1️⃣3️⃣ Data Mining and Predictive Analysis
+1️⃣4️⃣ Data Warehousing and Business Intelligence
+1️⃣5️⃣ Ethics in AI and Future Trends
+🔍 Index"
+9370609164,"Machine Learning using Python, 2ed",by Manaranjan Pradhan and U. Dinesh Kumar | 7 July 2024,5.0 out of 5 stars,(10),https://www.amazon.in/Machine-Learning-using-Python-2ed/dp/9370609164/ref=sr_1_10?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-10,"Machine Learning using Python offers a comprehensive foundation in machine learning, blending theoretical concepts with practical applications. It is ideal for beginners and aspiring professionals, covering all essential topics to build a strong foundation in machine learning. The book begins with python language basics, statistics, probability, and exploratory data analysis, and then progresses to supervised learning techniques like linear and logistic regressions, decision trees, KNN, SVM, random forests, boosting, stacking, recommender systems, and text analytics. It also explores unsupervised learning techniques such as clustering, anomaly detection, and dimensionality reduction. The book also addresses advanced topics like ML explainability and MLOps, including model interpretation, deployment, and monitoring. Each chapter includes real-world use cases and step-by-step Python implementations using libraries like Pandas, NumPy, Matplotlib, Seaborn, and Sci kit-learn. The content reflects over 15 years of teaching experience of the authors in institutions like IIM Bangalore and ISB Hyderabad."
+1789801656,Artificial Intelligence and Machine Learning Fundamentals,by Zsolt Nagy | 1 January 2018,4.0 out of 5 stars,(9),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfbXRmOjMwMDE2MzkwNjk1MDkzMjo6MDo6&url=%2FArtificial-Intelligence-Machine-Learning-Fundamentals%2Fdp%2F1789801656%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-11-spons%26aref%3DUdvfYtHdFy%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=UdvfYtHdFy&sp_cr=ZAZ,"Create AI applications in Python and lay the foundations for your career in data science
+
+Key Features
+Practical examples that explain key machine learning algorithms
+Explore neural networks in detail with interesting examples
+Master core AI concepts with engaging activities
+Book Description
+
+Machine learning and neural networks are pillars on which you can build intelligent applications. Artificial Intelligence and Machine Learning Fundamentals begins by introducing you to Python and discussing AI search algorithms. You will cover in-depth mathematical topics, such as regression and classification, illustrated by Python examples.
+
+As you make your way through the book, you will progress to advanced AI techniques and concepts, and work on real-life datasets to form decision trees and clusters. You will be introduced to neural networks, a powerful tool based on Moore's law.
+
+By the end of this book, you will be confident when it comes to building your own AI applications with your newly acquired skills!
+
+What you will learn
+Understand the importance, principles, and fields of AI
+Implement basic artificial intelligence concepts with Python
+Apply regression and classification concepts to real-world problems
+Perform predictive analysis using decision trees and random forests
+Carry out clustering using the k-means and mean shift algorithms
+Understand the fundamentals of deep learning via practical examples
+Who this book is for
+
+Artificial Intelligence and Machine Learning Fundamentals is for software developers and data scientists who want to enrich their projects with machine learning. You do not need any prior experience in AI. However, it’s recommended that you have knowledge of high school-level mathematics and at least one programming language (preferably Python)."
+9391540465,Machine Learning in Data Science Using Python,by Dr. R. Nageswara Rao | 31 May 2022,4.7 out of 5 stars,(78),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfbXRmOjIwMDUzNTE3MTUwNzk4OjowOjo&url=%2FMachine-Learning-Science-Using-Python%2Fdp%2F9391540465%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-12-spons%26aref%3DnUdeD8lmvF%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=nUdeD8lmvF&sp_cr=ZAZ,This book is useful for students and IT professionals who want to make their career in the field of Machine Learning and Data Science.
+1999579518,The Hundred-Page Machine Learning Book,by Andriy Burkov | 1 January 2019,4.4 out of 5 stars,(282),https://www.amazon.in/Hundred-Page-Machine-Learning-Book/dp/1999579518/ref=sr_1_13?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-13,"As its title says, it's the hundred-page machine learning book. It was written by an expert in machine learning holding a Ph.D. in Artificial Intelligence with almost two decades of industry experience in computer science and hands-on machine learning.This is a unique book in many aspects. It is the first successful attempt to write an easy to read book on machine learning that isn't afraid of using math. It's also the first attempt to squeeze a wide range of machine learning topics in a systematic way and without loss in quality.The book contains only those parts of the huge body of material on machine learning developed since the 1960s that have proven to have a significant practical value. A beginner in machine learning will find in this book just enough details to get a comfortable level of understanding of the field and start asking the right questions. Practitioners with experience will use this book as a collection of pointers to the directions of further self-improvement.The book also comes in handy when brainstorming at the beginning of a project, when you try to answer the question whether a given technical or business problem is ""machine-learnable"" and, if yes, which techniques you should try to solve it.The book comes with a wiki which contains pages that extend some book chapters with additional information: Q&A, code snippets, further reading, tools, and other relevant resources. Thanks to the continuously updated wiki this book like a good wine keeps getting better after you buy it."
+8119896734,Machine Learning | With Online Learning Platform | 35+ Video Notes | 2nd Edition | - Pearson,"by Saikat Dutt , Subramanian Chandramouli, et al. | 2 July 2024",4.4 out of 5 stars,(44),https://www.amazon.in/Machine-Learning-Online-Platform-Video/dp/8119896734/ref=sr_1_14?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-14,Machine Learning | With Online Learning Platform | 35+ Video Notes | 2nd Edition | - Pearson
+1636513778,"Machine Learning Essentials You Always Wanted to Know: A Hands-On Beginner's Guide to Mastering AI, Supervised, Unsupervised, and Deep Learning Algorithms",by Dhairya Parikh | 4 July 2025,4.3 out of 5 stars,(30),https://www.amazon.in/Machine-Learning-Essentials-Always-Wanted/dp/1636513778/ref=sr_1_15?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-15,"A Hands-On Beginner's Guide to Mastering AI, Supervised, Unsupervised, and Deep Learning Algorithms. A Beginner's Guide to Machine Learning with Hands-on Coding and Real-World Applications
+Covers key algorithms and techniques
+Ideal for students and professionals
+Hands-on implementation included
+
+Master the fundamentals of ML and take the first step towards a career in AI!
+
+In today's rapidly evolving world, machine learning (ML) is no longer just for researchers or data scientists. From personalized recommendations on streaming platforms to fraud detection in banking, ML powers many aspects of our daily lives. As industries increasingly adopt AI-driven solutions, learning machine learning has become a valuable skill. Yet, many find the subject overwhelming, often intimidated by its mathematical complexity. That's where Machine Learning Essentials You Always Wanted to Know (Machine Learning Essentials) comes in. This beginner-friendly guide offers a structured, step-by-step approach to understanding machine learning concepts without unnecessary jargon. Whether you are a student, a professional looking to transition into AI, or simply curious about how machines learn, this book provides a clear and practical roadmap to mastering ML.
+
+Authored by Dhairya Parikh, an experienced data engineer who returned to academia to refine his expertise, this book bridges the gap between theory and real-world application. It simplifies the core concepts of ML, breaking them down into digestible explanations paired with hands-on coding exercises to help you apply what you learn.
+
+What You'll Learn:
+
+The fundamentals of machine learning and how it powers modern technology
+The three key types of ML-Supervised, Unsupervised, and Reinforcement Learning
+How to combine algorithms, data, and models to develop AI-driven solutions
+Practical coding techniques to build and implement machine learning models
+
+Part of Vibrant Publishers' Self-Learning Management Series, this book serves as a valuable guide for building machine learning skills, enhancing your expertise, and advancing your career in AI and data science."
+1259096955,Machine Learning,by Tom M. Mitchell | 1 July 2017,4.3 out of 5 stars,(560),https://www.amazon.in/Machine-Learning-Tom-M-Mitchell/dp/1259096955/ref=sr_1_16?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-16,"This textbook provides a single source introduction to the primary approaches to machine learning. It is intended for advanced undergraduate and graduate students, as well as for developers and researchers in the field. No prior background in artificial intelligence or statistics is assumed. Several key algorithms, example date sets and project- oriented home work assignments discussed in the book are accessible through the World Wide Web.Feature:
+
+The book covers the concepts and techniques from the various fields in a unified fashion
+Covers very recent subjects such as genetic algorithms, re-enforcement learning and inductive logic programming.
+Writing style is clear, explanatory and precise."
+1636516025,"Machine Learning, Python & Data Analytics Essentials: Master AI, Data Science, and Analytics for Career Growth | Comprehensive Combo for Beginners & Professionals (Set of 3 Books)","by Dhairya Parikh , Shawn Peters , et al. | 21 July 2025",4.3 out of 5 stars,(15),https://www.amazon.in/Machine-Learning-Python-Analytics-Essentials/dp/1636516025/ref=sr_1_17?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-17,"Most data science journeys start with Python, move into data analytics, and lead to machine learning.
+This combo brings all three together in one easy-to-follow package:
+
+Python Essentials gives you coding confidence from scratch
+Data Analytics Essentials teaches you how to find insights in data
+Machine Learning Essentials shows you how to make predictions and automate decisions
+
+
+
+What does each book offer?
+
+Book 1: Machine Learning Essentials You Always Wanted to Know
+
+Learn how data fuels modern machine learning systems, from training algorithms to making accurate predictions
+Tackle complex topics like deep learning and neural networks—made easy with clear, beginner-friendly explanations
+Discover how ML is applied in the real world, with examples from industries like healthcare, education, and more
+
+
+
+Book 2: Python Essentials You Always Wanted to Know
+
+Gain a solid foundation in Python, making it easier to progress to more advanced topics with simple and step-by-step explanations
+Get a deep understanding of object-oriented programming principles, which are vital skills for writing clean, scalable, and reusable Python code
+Stay ahead of the curve by diving into exciting fields like AI, Machine Learning, and IoT with Python
+
+
+
+Book 3: Data Analytics Essentials You Always Wanted to Know
+
+Get a clear understanding of key concepts, terminology, and the evolution of data analytics
+Understand the transformative role of Big Data and how it reshapes industries globally
+Explore how industry giants like Walmart and Netflix use data analytics to drive business decisions"
+9355429460,Machine Learning System Design Interview: An Insider's Guide (Grayscale Indian Edition),by Ali Aminian and Alex Xu | 26 October 2023,4.4 out of 5 stars,(83),https://www.amazon.in/Machine-Learning-System-Design-Interview/dp/9355429460/ref=sr_1_18?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-18,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+Machine learning system design interviews are the most difficult to tackle of all technical interview questions. This book provides a reliable strategy and knowledge base for approaching a broad range of ML system design questions. It provides a step-by-step framework for tackling an ML system design question. It includes many real-world examples to illustrate the systematic approach, with detailed steps you can follow.
+
+This book is an essential resource for anyone interested in ML system design, whether they are beginners or experienced engineers. Meanwhile, if you need to prepare for an ML interview, this book is specifically written for you.
+
+What’s inside?
+- An insider’s take on what interviewers really look for and why.
+- A 7-step framework for solving any ML system design interview question.
+- 10 real ML system design interview questions with detailed solutions.
+- 211 diagrams that visually explain how various systems work."
+9391540465,Machine Learning in Data Science Using Python,by Dr. R. Nageswara Rao | 31 May 2022,4.7 out of 5 stars,(78),https://www.amazon.in/Machine-Learning-Science-Using-Python/dp/9391540465/ref=sr_1_19?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-19,This book is useful for students and IT professionals who want to make their career in the field of Machine Learning and Data Science.
+8176711403,MACHINE LEARNING Mitchell,by Tom Mitchell | 14 June 2025,4.1 out of 5 stars,(11),https://www.amazon.in/MACHINE-LEARNING-Mitchell-Tom/dp/8176711403/ref=sr_1_20?dib=eyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8&dib_tag=se&keywords=machine+learning+book&qid=1776184872&sr=8-20,2025 . Including new update material
+1787128571,Python: Deeper Insights Into Machine Learning: Deeper Insights into Machine Learning: Leverage benefits of machine learning techniques using Python,"by Sebastian Raschka , David Julian, et al. | 1 January 2017",1.0 out of 5 stars,(1),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfYnRmOjMwMDE2MzkzODc1MzczMjo6MDo6&url=%2FPython-Deeper-Insights-Machine-Learning%2Fdp%2F1787128571%2Fref%3Dsr_1_21_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-21-spons%26aref%3Df3t5H8W5LG%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=f3t5H8W5LG&sp_cr=ZAZ,"Leverage benefits of machine learning techniques using Python.
+
+Key Features
+
+- Improve and optimise machine learning systems using effective strategies.
+
+- Develop a strategy to deal with a large amount of data.
+
+- Use of Python code for implementing a range of machine learning algorithms and techniques.
+
+Book Description
+
+Machine learning and predictive analytics are becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. It is one of the fastest growing trends in modern computing, and everyone wants to get into the field of machine learning. In order to obtain sufficient recognition in this field, one must be able to understand and design a machine learning system that serves the needs of a project.
+
+The idea is to prepare a learning path that will help you to tackle the real-world complexities of modern machine learning with innovative and cutting-edge techniques. Also, it will give you a solid foundation in the machine learning design process, and enable you to build customized machine learning models to solve unique problems.
+
+The course begins with getting your Python fundamentals nailed down. It focuses on answering the right questions that cove a wide range of powerful Python libraries, including scikit-learn Theano and Keras.After getting familiar with Python core concepts, it's time to dive into the field of data science. You will further gain a solid foundation on the machine learning design and also learn to customize models for solving problems.
+
+At a later stage, you will get a grip on more advanced techniques and acquire a broad set of powerful skills in the area of feature selection and feature engineering.
+
+What you will learn
+
+- Learn to write clean and elegant Python code that will optimize the strength of your algorithms
+
+- Uncover hidden patterns and structures in data with clustering
+
+- Improve accuracy and consistency of results using powerful feature engineering techniques
+
+- Gain practical and theoretical understanding of cutting-edge deep learning algorithms
+
+- Solve unique tasks by building models
+
+- Get grips on the machine learning design process
+
+Who this book is for
+
+This title is for data scientist and researchers who are already into the field of data science and want to see machine learning in action and explore its real-world application. Prior knowledge of Python programming and mathematics is must with basic knowledge of machine learning concepts."
+1787125939,"Python Machine Learning, Second Edition",by Sebastian Raschka and Vahid Mirjalili | 1 January 2017,4.4 out of 5 stars,(292),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDQwNjQ2OTU1NTgxMjg1OjE3NzYxODQ4NzI6c3BfYnRmOjMwMDE2Mzk4MjQxNjMzMjo6MDo6&url=%2FPython-Machine-Learning-Sebastian-Raschka%2Fdp%2F1787125939%2Fref%3Dsr_1_22_sspa%3Fdib%3DeyJ2IjoiMSJ9.oc8NqfaNvKCVC-bkO3U0v8IEWNspkW488JeW0X1UTKuw_uJ-ITYuJpeMJ27SEuoXh-RXMrleEbS6pNCyTaDNciWv_JYBL_g15nMK5Ej0VLsTpzEYELsg3ZA4Pp57ygqCKVni3LisQiNsIsNAU6_Efft6WNwuQZ_nzMbGPavZkW7ksIFEmKNLD5JviI2LFGWAMjEAjDrRgy3tif_1wqhSD4fFs0Ek-CnFmcAbJX31808.JxY4A26zQcjWTTu9rVFb3eauAtZQ1dswVJySfMpvIb8%26dib_tag%3Dse%26keywords%3Dmachine%2Blearning%2Bbook%26qid%3D1776184872%26sr%3D8-22-spons%26aref%3DS1Ejh7Mlee%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=S1Ejh7Mlee&sp_cr=ZAZ,"Unlock modern machine learning and deep learning techniques with Python by using the latest cutting-edge open source Python libraries.
+
+
+Key Features
+
+Second edition of the bestselling book on Machine Learning
+A practical approach to key frameworks in data science, machine learning, and deep learning
+Use the most powerful Python libraries to implement machine learning and deep learning
+Get to know the best practices to improve and optimize your machine learning systems and algorithms
+
+Book Description
+.
+Publisher's Note: This edition from 2017 is outdated and is not compatible with TensorFlow 2 or any of the most recent updates to Python libraries. A new third edition, updated for 2020 and featuring TensorFlow 2 and the latest in scikit-learn, reinforcement learning, and GANs, has now been published.
+
+Machine learning is eating the software world, and now deep learning is extending machine learning. Understand and work at the cutting edge of machine learning, neural networks, and deep learning with this second edition of Sebastian Raschka's bestselling book, Python Machine Learning. Using Python's open source libraries, this book offers the practical knowledge and techniques you need to create and contribute to machine learning, deep learning, and modern data analysis.
+
+Fully extended and modernized, Python Machine Learning Second Edition now includes the popular TensorFlow 1.x deep learning library. The scikit-learn code has also been fully updated to v0.18.1 to include improvements and additions to this versatile machine learning library.
+
+Sebastian Raschka and Vahid Mirjalili's unique insight and expertise introduce you to machine learning and deep learning algorithms from scratch, and show you how to apply them to practical industry challenges using realistic and interesting examples. By the end of the book, you'll be ready to meet the new data analysis opportunities.
+
+If you've read the first edition of this book, you'll be delighted to find a balance of classical ideas and modern insights into machine learning. Every chapter has been critically updated, and there are new chapters on key technologies. You'll be able to learn and work with TensorFlow 1.x more deeply than ever before, and get essential coverage of the Keras neural network library, along with updates to scikit-learn 0.18.1.
+
+What You Will Learn
+
+Understand the key frameworks in data science, machine learning, and deep learning
+Harness the power of the latest Python open source libraries in machine learning
+Explore machine learning techniques using challenging real-world data
+Master deep neural network implementation using the TensorFlow 1.x library
+Learn the mechanics of classification algorithms to implement the best tool for the job
+Predict continuous target outcomes using regression analysis
+Uncover hidden patterns and structures in data with clustering
+Delve deeper into textual and social media data using sentiment analysis
+
+Who this book is for
+
+If you know some Python and you want to use machine learning and deep learning, pick up this book. Whether you want to start from scratch or extend your machine learning knowledge, this is an essential and unmissable resource. Written for developers and data scientists who want to create practical machine learning and deep learning code, this book is ideal for developers and data scientists who want to teach computers how to learn from data."

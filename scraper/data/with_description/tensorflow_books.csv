@@ -1,0 +1,370 @@
+asin,title,author,rating,reviews,url,description
+1788292065,Mastering Tensorflow,by Armando Fandango | 1 January 2018,3.0 out of 5 stars,(8),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTcwMTc3MDY4NTkzMzgxOjE3NzYxODQ4OTA6c3BfYXRmOjMwMDE2Mzk2MzI2ODEzMjo6MDo6&url=%2FMastering-Tensorflow-Armando-Fandango%2Fdp%2F1788292065%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4%26dib_tag%3Dse%26keywords%3Dtensorflow%2Bbook%26qid%3D1776184890%26sr%3D8-1-spons%26aref%3DYhEz3ZRNnG%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=YhEz3ZRNnG&sp_cr=ZAZ,"We cover advanced deep learning concepts (such as transfer learning, generative adversarial models, and reinforcement learning), and implement them using TensorFlow and Keras. We cover how to build and deploy at scale with distributed models. You will learn to build TensorFlow models using R, Keras, TensorFlow Learn, TensorFlow Slim and Sonnet"
+9355421982,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, Third Edition (Full Colour Print)",by Aurélien Géron | 10 October 2022,4.7 out of 5 stars,(368),https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982/ref=sr_1_2?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-2,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This best-selling book uses concrete examples, minimal theory, and production-ready Python frameworks--scikit-learn, Keras, and TensorFlow--to help you gain an intuitive understanding of the concepts and tools for building intelligent systems.
+
+With this updated third edition, author Aurelien Geron explores a range of techniques, starting with simple linear regression and progressing to deep neural networks. Numerous code examples and exercises throughout the book help you apply what you've learned. Programming experience is all you need to get started.
+
+Use scikit-learn to track an example machine learning project end to end
+Explore several models, including support vector machines, decision trees, random forests, and ensemble methods
+Exploit unsupervised learning techniques such as dimensionality reduction, clustering, and anomaly detection
+Dive into neural net architectures, including convolutional nets, recurrent nets, generative adversarial networks, and transformers
+Use TensorFlow and Keras to build and train neural nets for computer vision, natural language processing, generative models, and deep reinforcement learning
+Train neural nets using multiple GPUs and deploy them at scale using Google's Vertex AI"
+9390475791,"Mastering OpenCV with Python: Use NumPy, Scikit, TensorFlow, and Matplotlib to learn Advanced algorithms for Machine Learning through a set of Practical Projects",by Ayush Vaishya | 15 November 2023,4.8 out of 5 stars,(32),https://www.amazon.in/Mastering-OpenCV-Python-TensorFlow-Matplotlib/dp/9390475791/ref=sr_1_3?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-3,"""Mastering OpenCV with Python"" immerses you in the captivating realm of computer vision, with a structured approach that equips you with the knowledge and skills essential for success in this rapidly evolving field. From grasping the fundamental concepts of image processing and OpenCV to mastering advanced techniques such as neural networks and object detection, you will gain a comprehensive understanding. Each chapter is enriched with hands-on exercises and real-world projects, ensuring the acquisition of practical skills that can be immediately applied in your professional journey."
+9355510470,Beginning with Deep Learning Using TensorFlow,by Mohan Kumar Silaparasetty | 9 February 2022,4.6 out of 5 stars,(11),https://www.amazon.in/Beginning-Deep-Learning-Using-TensorFlow/dp/9355510470/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-4,"This book begins with the configuration of an Anaconda development environment, essential for practicing the deep learning process. The basics of machine learning, which are needed for Deep Learning, are explained in this book.TensorFlow is the industry-standard library for Deep Learning, and thereby, it is covered extensively with both versions, 1.x and 2.x. As neural networks are the heart of Deep Learning, the book explains them in great detail and systematic fashion, beginning with a single neuron and progressing through deep multilayer neural networks. The emphasis of this book is on the practical application of key concepts rather than going in-depth with them.After establishing a firm basis in TensorFlow and Neural Networks, the book explains the concepts of image recognition using Convolutional Neural Networks (CNN), followed by speech recognition, and natural language processing (NLP). Additionally, this book discusses Transformers, the most recent advancement in NLP.TABLE OF CONTENTS1. Introduction to Artificial Intelligence2. Machine Learning 3. TensorFlow Programming4. Neural Networks5. TensorFlow 26. Image Recognition7. Speech Recognition"
+9391043828,TensorFlow 2 Pocket Reference: Building and Deploying Machine Learning Models (Grayscale Indian Edition),by KC Tung | 6 August 2021,4.3 out of 5 stars,(29),https://www.amazon.in/TensorFlow-Pocket-Reference-Deploying-Grayscale/dp/9391043828/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-5,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs. All Indian Reprints of O'Reilly are Printed in Grayscale
+
+This easy-to-use reference for TensorFlow 2 design patterns in Python will help you make informed decisions for various use cases. Author KC Tung addresses common topics and tasks in enterprise data science and machine learning practices rather than focusing on TensorFlow itself.
+
+When and why would you feed training data as using NumPy or a streaming dataset? How would you set up cross-validations in the training process? How do you leverage a pretrained model using transfer learning? How do you perform hyperparameter tuning? Pick up this pocket reference and reduce the time you spend searching through options for your TensorFlow use cases.
+
+Understand best practices in TensorFlow model patterns and ML workflows
+Use code snippets as templates in building TensorFlow models and workflows
+Save development time by integrating prebuilt models in TensorFlow Hub
+Make informed design choices about data ingestion, training paradigms, model saving, and inferencing
+Address common scenarios such as model design style, data ingestion workflow, model training, and tuning"
+9391392229,"Mastering TensorFlow 2.x: Implement Powerful Neural Nets across Structured, Unstructured datasets and Time Series Data",by Rajdeep Dua | 22 April 2022,5.0 out of 5 stars,(5),https://www.amazon.in/Mastering-TensorFlow-2-x-Structured-Unstructured/dp/9391392229/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-6,"Work with TensorFlow and Keras for real performance of deep learningKey FeaturesCombines theory and implementation with in-detail use-cases.Coverage on both, TensorFlow 1.x and 2.x with elaborated concepts.Exposure to Distributed Training, GANs and Reinforcement Learning.DescriptionMastering TensorFlow 2.x is a must to read and practice if you are interested in building various kinds of neural networks with high level TensorFlow and Keras APIs. The book begins with the basics of TensorFlow and neural network concepts, and goes into specific topics like image classification, object detection, time series forecasting and Generative Adversarial Networks.While we are practicing TensorFlow 2.6 in this book, the version of Tensorflow will change with time; however you can still use this book to witness how Tensorflow outperforms. This book includes the use of a local Jupyter notebook and the use of Google Colab in various use cases including GAN and Image classification tasks. While you explore the performance of TensorFlow, the book also covers various concepts and in-detail explanations around reinforcement learning, model optimization and time series models.What you will learnGetting started with Tensorflow 2.x and basic building blocks.Get well versed in functional programming with TensorFlow.Practice Time Series analysis along with strong understanding of concepts.Get introduced to use of TensorFlow in Reinforcement learning and Generative Adversarial Networks.Train distributed models and how to optimize them.Who this book is forThis book is designed for machine learning engineers, NLP engineers and deep learning practitioners who want to utilize the performance of TensorFlow in their ML and AI projects. Readers are expected to have some familiarity with Tensorflow and the basics of machine learning would be helpful.Table of Contents1. Getting started with TensorFlow 2.x2. Machine Learning with TensorFlow 2.x3. Keras based APIs4. Convolutional Neural Networks in Tensorflow5. Text Processing with TensorFlow 2.x6. Time Series Forecasting with TensorFlow 2.x7. Distributed Training and DataInput pipelines8. Reinforcement Learning9. Model Optimization10. Generative Adversarial NetworksRead more"
+9354642403,Deep Learning with TensorFlow JS Projects,by Umang Sharma | 21 June 2022,5.0 out of 5 stars,(10),https://www.amazon.in/Deep-Learning-TensorFlow-JS-Projects/dp/9354642403/ref=sr_1_7?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-7,"Deep Learning with TensorFlow JS Projects aims to teach Deep Learning application development with ease. This book is designed to teach both JS and Machine Learning expertly. Each chapter starts with a bit of theory on a particular Deep Learning concept and then goes on to build a full-fledged fun Web app using the same. Doing Deep Learning in production is critical for its success, and this book intends to teach that. This book can also be used to build a strong foundation of difficult DL concepts such as CNNs, RNNs, GANs, and much more."
+9355516495,Design Patterns of Deep Learning with TensorFlow: Building a customer hyper-personalisation ecosystem using deep learning design patterns,by Thomas V. Joseph | 6 June 2024,5.0 out of 5 stars,(1),https://www.amazon.in/Design-Patterns-Learning-TensorFlow-hyper-personalisation/dp/9355516495/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-8,"Design Patterns of Deep Learning with TensorFlow is your comprehensive guide to learning deep learning from a design pattern perspective. In this book, we explore deep learning within the context of building hyper-personalization models, exploring its applications across various industries and scenarios. It starts by showing how deep learning enhances retail through customer segmentation and data analysis. You will learn neural networks, computer vision with CNNs, and NLP for analyzing customer behavior. This book addresses challenges like uneven data and optimizing models with techniques like backpropagation, hyperparameter tuning, and transfer learning. Finally, it covers setting up data pipelines and deploying your system. With practical tips and actionable advice, this book equips readers with the skills and strategies needed to thrive in today''s competitive AI landscape."
+9352137043,TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning (Greyscale Indian Edition),by Reza Zadeh and Bharath Ramsundar | 1 January 2018,3.6 out of 5 stars,(34),https://www.amazon.in/Tensor-Flow-Deep-Learning-Zadeh/dp/9352137043/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-9,"Learn how to solve challenging machine learning problems with Tensorflow, Google and rsquo;s revolutionary new system for deep learning. If you have some background with basic linear algebra and calculus, this practical book shows you how to build and mdash;and when to use and mdash;deep learning architectures. You and rsquo;ll learn how to design systems capable of detecting objects in images, understanding human speech, analyzing video and predicting the properties of potential medicines.
+
+TensorFlow for Deep Learning teaches concepts through practical examples and builds understanding of deep learning foundations from the ground up. It and rsquo;s ideal for practicing developers comfortable with designing software systems, but not necessarily with creating learning systems. This book is also useful for scientists and other professionals who are comfortable with scripting, but not necessarily with designing learning algorithms.
+
+
+Gain in-depth knowledge of the TensorFlow API and primitives.
+
+Understand how to train and tune machine learning systems with TensorFlow on large datasets.
+
+Learn how to use TensorFlow with convolutional networks, recurrent networks, LSTMs and reinforcement learning."
+1803232919,"Deep Learning with TensorFlow and Keras - Third Edition: Build and deploy supervised, unsupervised, deep, and reinforcement learning models","by Amita Kapoor , Antonio Gulli , et al. | 6 October 2022",4.4 out of 5 stars,(79),https://www.amazon.in/Deep-Learning-TensorFlow-Keras-reinforcement/dp/1803232919/ref=sr_1_10?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-10,"Build cutting edge machine and deep learning systems for the lab, production, and mobile devices.
+
+
+
+
+Purchase of the print or Kindle book includes a free eBook in PDF format.
+
+
+
+
+Key Features:
+
+Understand the fundamentals of deep learning and machine learning through clear explanations and extensive code samples
+Implement graph neural networks, transformers using Hugging Face and TensorFlow Hub, and joint and contrastive learning
+Learn cutting-edge machine and deep learning techniques
+
+
+
+
+Book Description:
+
+Deep Learning with TensorFlow and Keras teaches you neural networks and deep learning techniques using TensorFlow (TF) and Keras. You'll learn how to write deep learning applications in the most powerful, popular, and scalable machine learning stack available.
+
+
+
+
+TensorFlow 2.x focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs based on Keras, and flexible model building on any platform. This book uses the latest TF 2.0 features and libraries to present an overview of supervised and unsupervised machine learning models and provides a comprehensive analysis of deep learning and reinforcement learning models using practical examples for the cloud, mobile, and large production environments.
+
+
+
+
+This book also shows you how to create neural networks with TensorFlow, runs through popular algorithms (regression, convolutional neural networks (CNNs), transformers, GANs, recurrent neural networks (RNNs), natural language processing (NLP), and Graph Neural Networks (GNNs)), covers working example apps, and then dives into TF in production, TF mobile, and TensorFlow with AutoML.
+
+
+
+
+What You Will Learn:
+
+Learn how to use the popular GNNs with TensorFlow to carry out graph mining tasks
+Discover the world of transformers, from pretraining to fine-tuning to evaluating them
+Apply self-supervised learning to natural language processing, computer vision, and audio signal processing
+Combine probabilistic and deep learning models using TensorFlow Probability
+Train your models on the cloud and put TF to work in real environments
+Build machine learning and deep learning systems with TensorFlow 2.x and the Keras API
+
+
+
+
+Who this book is for:
+
+This hands-on machine learning book is for Python developers and data scientists who want to build machine learning and deep learning systems with TensorFlow. This book gives you the theory and practice required to use Keras, TensorFlow, and AutoML to build machine learning systems.
+
+
+
+
+Some machine learning knowledge would be useful. We don't assume TF knowledge."
+1838641351,Natural Language Processing with TensorFlow: The definitive NLP book to implement the most sought-after machine learning models and tasks,by Thushan Ganegedara | 20 May 2022,4.5 out of 5 stars,(16),https://www.amazon.in/Natural-Language-Processing-TensorFlow-sought-after/dp/1838641351/ref=sr_1_11?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-11,"From introductory NLP tasks to Transformer models, this new edition teaches you to utilize powerful TensorFlow APIs to implement end-to-end NLP solutions driven by performant ML (Machine Learning) models
+
+
+
+
+Key Features:
+
+Learn to solve common NLP problems effectively with TensorFlow 2.x
+Implement end-to-end data pipelines guided by the underlying ML model architecture
+Use advanced LSTM techniques for complex data transformations, custom models and metrics
+
+
+
+
+Book Description:
+
+Learning how to solve natural language processing (NLP) problems is an important skill to master due to the explosive growth of data combined with the demand for machine learning solutions in production. Natural Language Processing with TensorFlow, Second Edition, will teach you how to solve common real-world NLP problems with a variety of deep learning model architectures.
+
+
+
+
+The book starts by getting readers familiar with NLP and the basics of TensorFlow. Then, it gradually teaches you different facets of TensorFlow 2.x. In the following chapters, you then learn how to generate powerful word vectors, classify text, generate new text, and generate image captions, among other exciting use-cases of real-world NLP.
+
+
+
+
+TensorFlow has evolved to be an ecosystem that supports a machine learning workflow through ingesting and transforming data, building models, monitoring, and productionization. We will then read text directly from files and perform the required transformations through a TensorFlow data pipeline. We will also see how to use a versatile visualization tool known as TensorBoard to visualize our models.
+
+
+
+
+By the end of this NLP book, you will be comfortable with using TensorFlow to build deep learning models with many different architectures, and efficiently ingest data using TensorFlow Additionally, you'll be able to confidently use TensorFlow throughout your machine learning workflow.
+
+
+
+
+What You Will Learn:
+
+Learn core concepts of NLP and techniques with TensorFlow
+Use statee-of-the-art Transformers and how they are used to solve NLP tasks
+Perform sentence classification and text generation using CNNs and RNNS
+Utilize advanced models for machine translation and image caption generation
+Build end-to-end data pipelines in TensorFlow
+Learn interesting facts and practices related to the task at hand
+Create word representations of large amounts of data for deep learning
+
+
+
+
+Who this book is for:
+
+This book is for Python developers and programmers with a strong interest in deep learning, who want to learn how to leverage TensorFlow to simplify NLP tasks.
+
+
+
+
+Fundamental Python skills are assumed, as well as basic knowledge of machine learning and undergraduate-level calculus and linear algebra. No previous natural language processing experience required."
+9348107135,"Kickstart Artificial Intelligence Fundamentals: Master Machine Learning, Neural Networks, and Deep Learning from Basics to Build Modern AI Solutions with Python and TensorFlow-Keras",by Dr. S.Mahesh Anand | 28 March 2025,4.8 out of 5 stars,(11),https://www.amazon.in/Kickstart-Artificial-Intelligence-Fundamentals-TensorFlow-Keras/dp/9348107135/ref=sr_1_12?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-12,"Master AI Fundamentals and Build Real-World Machine Learning and Deep Learning Solutions.
+
+Book Description
+AI is transforming industries, driving innovation, and shaping the future of technology. A strong foundation in AI fundamentals is essential for anyone looking to stay ahead in this rapidly evolving field.
+
+Kickstart Artificial Intelligence Fundamentals is a comprehensive companion designed to demystify core AI concepts, covering Machine Learning, Deep Learning, and Neural Networks. Tailored for all AI enthusiasts, this book provides hands-on Python implementation using the TensorFlow-Keras framework, ensuring a seamless learning experience from theory to practice.
+
+Bridging the gap between concepts and real-world applications, this book offers intuitive explanations, mathematical foundations, and practical use cases. Readers will explore supervised and unsupervised Machine Learning models, master Convolutional Neural Networks for image classification, and leverage Long Short-Term Memory networks for time-series forecasting. Each chapter includes coding examples and guided exercises, making it an invaluable resource for both beginners and advanced learners.
+
+Table of Contents
+1. Introduction and Evolution of AI Technologies
+2. Modern Approach to AI
+3. Introduction to Machine Learning
+4. Regression Versus Classification Model
+5. Naive Bayes as a Linear Classifier
+6. Tree-Based Machine Learning Models
+7. Distance-Based Machine Learning Models
+8. Support Vector Machines
+9. Introduction to Artificial Neural Networks
+10. Training Neural Networks
+11. Introduction to Convolutional Neural Networks
+12. Classification Using CNN
+13. Pre-trained CNN Architectures
+14. Introduction to Recurrent Neural Networks
+15. Introduction to Long Short-Term Memory (LSTM)
+16. Application of LSTM in NLP and TS Forecasting
+17. Emerging Trends and Ethical Considerations in AI
+       Index"
+1800208863,Machine Learning Using TensorFlow Cookbook: Create powerful machine learning algorithms with TensorFlow,"by Alexia Audevart , Konrad Banachewicz , et al. | 8 February 2021",4.4 out of 5 stars,(10),https://www.amazon.in/Machine-Learning-Using-TensorFlow-Cookbook/dp/1800208863/ref=sr_1_13?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-13,"Comprehensive recipes to give you valuable insights on Transformers, Reinforcement Learning, and more
+
+
+
+
+Key Features:
+
+Deep Learning solutions from Kaggle Masters and Google Developer Experts
+Get to grips with the fundamentals including variables, matrices, and data sources
+Learn advanced techniques to make your algorithms faster and more accurate
+
+
+
+
+Book Description:
+
+The independent recipes in Machine Learning Using TensorFlow Cookbook will teach you how to perform complex data computations and gain valuable insights into your data. Dive into recipes on training models, model evaluation, sentiment analysis, regression analysis, artificial neural networks, and deep learning - each using Google's machine learning library, TensorFlow.
+
+
+
+
+This cookbook covers the fundamentals of the TensorFlow library, including variables, matrices, and various data sources. You'll discover real-world implementations of Keras and TensorFlow and learn how to use estimators to train linear models and boosted trees, both for classification and regression.
+
+
+
+
+Explore the practical applications of a variety of deep learning architectures, such as recurrent neural networks and Transformers, and see how they can be used to solve computer vision and natural language processing (NLP) problems.
+
+
+
+
+With the help of this book, you will be proficient in using TensorFlow, understand deep learning from the basics, and be able to implement machine learning algorithms in real-world scenarios.
+
+
+
+
+What You Will Learn:
+
+Take TensorFlow into production
+Implement and fine-tune Transformer models for various NLP tasks
+Apply reinforcement learning algorithms using the TF-Agents framework
+Understand linear regression techniques and use Estimators to train linear models
+Execute neural networks and improve predictions on tabular data
+Master convolutional neural networks and recurrent neural networks through practical recipes
+
+
+
+
+Who this book is for:
+
+If you are a data scientist or a machine learning engineer, and you want to skip detailed theoretical explanations in favor of building production-ready machine learning models using TensorFlow, this book is for you.
+
+Basic familiarity with Python, linear algebra, statistics, and machine learning is necessary to make the most out of this book."
+9391246540,"Ultimate Neural Network Programming with Python: Create Powerful Modern AI Systems by Harnessing Neural Networks with Python, Keras, and TensorFlow",by Vishal Rajput | 3 November 2023,4.8 out of 5 stars,(67),https://www.amazon.in/Ultimate-Neural-Network-Programming-Python/dp/9391246540/ref=sr_1_14?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-14,"This book is a practical guide to the world of Artificial Intelligence (AI), unraveling the math and principles behind applications like Google Maps and Amazon. The book starts with an introduction to Python and AI, demystifies complex AI math, teaches you to implement AI concepts, and explores high-level AI libraries. Throughout the chapters, readers are engaged with the book through practice exercises, and supplementary learnings. The book then gradually moves to Neural Networks with Python before diving into constructing ANN models and real-world AI applications. It accommodates various learning styles, letting readers focus on hands-on implementation or mathematical understanding. This book isn't just about using AI tools; it's a compass in the world of AI resources, empowering readers to modify and create tools for complex AI systems. It ensures a journey of exploration, experimentation, and proficiency in AI, equipping readers with the skills needed to excel in the AI industry."
+1800209711,"Python Machine Learning by Example - Third Edition: Build intelligent systems using Python, TensorFlow 2, PyTorch, and scikit-learn",by Yuxi (Hayden) Liu | 30 October 2020,4.4 out of 5 stars,(75),https://www.amazon.in/Python-Machine-Learning-Example-scikit-learn/dp/1800209711/ref=sr_1_15?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-15,"A comprehensive guide to get you up to speed with the latest developments of practical machine learning with Python and upgrade your understanding of machine learning (ML) algorithms and techniques
+
+
+
+
+Key Features
+
+Dive into machine learning algorithms to solve the complex challenges faced by data scientists today
+Explore cutting edge content reflecting deep learning and reinforcement learning developments
+Use updated Python libraries such as TensorFlow, PyTorch, and scikit-learn to track machine learning projects end-to-end
+
+
+
+
+Book Description
+
+Python Machine Learning By Example, Third Edition serves as a comprehensive gateway into the world of machine learning (ML).
+
+
+
+
+With six new chapters, on topics including movie recommendation engine development with Naïve Bayes, recognizing faces with support vector machine, predicting stock prices with artificial neural networks, categorizing images of clothing with convolutional neural networks, predicting with sequences using recurring neural networks, and leveraging reinforcement learning for making decisions, the book has been considerably updated for the latest enterprise requirements.
+
+
+
+
+At the same time, this book provides actionable insights on the key fundamentals of ML with Python programming. Hayden applies his expertise to demonstrate implementations of algorithms in Python, both from scratch and with libraries.
+
+
+
+
+Each chapter walks through an industry-adopted application. With the help of realistic examples, you will gain an understanding of the mechanics of ML techniques in areas such as exploratory data analysis, feature engineering, classification, regression, clustering, and NLP.
+
+
+
+
+By the end of this ML Python book, you will have gained a broad picture of the ML ecosystem and will be well-versed in the best practices of applying ML techniques to solve problems.
+
+
+
+
+What you will learn
+
+Understand the important concepts in ML and data science
+Use Python to explore the world of data mining and analytics
+Scale up model training using varied data complexities with Apache Spark
+Delve deep into text analysis and NLP using Python libraries such NLTK and Gensim
+Select and build an ML model and evaluate and optimize its performance
+Implement ML algorithms from scratch in Python, TensorFlow 2, PyTorch, and scikit-learn
+
+
+
+
+Who this book is for
+
+﻿If you're a machine learning enthusiast, data analyst, or data engineer highly passionate about machine learning and want to begin working on machine learning assignments, this book is for you.
+
+
+
+
+Prior knowledge of Python coding is assumed and basic familiarity with statistical concepts will be beneficial, although this is not necessary."
+1800200889,"Generative AI with Python and TensorFlow 2: Create images, text, and music with VAEs, GANs, LSTMs, Transformer models",by Joseph Babcock and Raghav Bali | 30 April 2021,4.3 out of 5 stars,(50),https://www.amazon.in/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889/ref=sr_1_16?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-16,"This edition is heavily outdated and we have a new edition with PyTorch examples published!
+
+Key Features:
+
+- Code examples are in TensorFlow 2, which make it easy for PyTorch users to follow along
+
+- Look inside the most famous deep generative models, from GPT to MuseGAN
+
+- Learn to build and adapt your own models in TensorFlow 2.x
+
+- Explore exciting, cutting-edge use cases for deep generative AI
+
+Book Description:
+
+Machines are excelling at creative human skills such as painting, writing, and composing music. Could you be more creative than generative AI?
+
+In this book, you'll explore the evolution of generative models, from restricted Boltzmann machines and deep belief networks to VAEs and GANs. You'll learn how to implement models yourself in TensorFlow and get to grips with the latest research on deep neural networks.
+
+There's been an explosion in potential use cases for generative models. You'll look at Open AI's news generator, deepfakes, and training deep learning agents to navigate a simulated environment.
+
+Recreate the code that's under the hood and uncover surprising links between text, image, and music generation.
+
+What You Will Learn:
+
+- Export the code from GitHub into Google Colab to see how everything works for yourself
+
+- Compose music using LSTM models, simple GANs, and MuseGAN
+
+- Create deepfakes using facial landmarks, autoencoders, and pix2pix GAN
+
+- Learn how attention and transformers have changed NLP
+
+- Build several text generation pipelines based on LSTMs, BERT, and GPT-2
+
+- Implement paired and unpaired style transfer with networks like StyleGAN
+
+- Discover emerging applications of generative AI like folding proteins and creating videos from images
+
+Who this book is for:
+
+This is a book for Python programmers who are keen to create and have some fun using generative models. To make the most out of this book, you should have a basic familiarity with math and statistics for machine learning.
+
+Table of Contents
+
+- An Introduction to Generative AI: ""Drawing"" Data from Models
+
+- Setting up a TensorFlow Lab
+
+- Building Blocks of Deep Neural Networks
+
+- Teaching Networks to Generate Digits
+
+- Painting Pictures with Neural Networks using VAEs
+
+- Image Generation with GANs
+
+- Style Transfer with GANs
+
+- DeepFakes with GANs
+
+- The Rise of Methods for Text Generation
+
+- NLP 2.0: Using Transformers to Generate Text
+
+- Composing Music with Generative Models
+
+- Play Video Games with Generative AI: GAIL
+
+- Emerging Applications in Generative AI"
+1648927890,DEEP LEARNING : A TensorFlow Practical Approach,"by Dr. G. Vamsi Krishna, Dr. K. Satish Kumar, et al. | 28 April 2020",,,https://www.amazon.in/DEEP-LEARNING-TensorFlow-Practical-Approach/dp/1648927890/ref=sr_1_17?dib=eyJ2IjoiMSJ9.ftUvU_CzmJLENBx4L9wX5XNiqH_CgC1rz8eYnrAViwz7-17b_zaWlKNa-w2-RSTN-PrVhhzDRFBCl_3VwIaM5ubNRIhDEKFcfoyExkKR7J40ugxGp7r_zDWdDGCv5I46PFfkDnzi4oWHPqU9Wew_pKpSKwz362bhO4pTR8zxPYqQQczQw_J9LzcIvcd_532qccHrLdatTqGyL9xpU_I-iuj3EyIwdWg2q0i1owLoJsY.Tjq6QA3PDZezgexmmSwRCEEtXqfO44xrkEkz8p-GzW4&dib_tag=se&keywords=tensorflow+book&qid=1776184890&sr=8-17,DEEP LEARNING: A TensorFlow Practical Approach

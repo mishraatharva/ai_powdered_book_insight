@@ -1,0 +1,16 @@
+selenium
+ipykernel
+mysqlclient
+pandas
+webdriver_manager
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+langchain-experimental
+semantic-chunker-langchain
+langchain_text_splitters
+langchain-ollama
+django
+djangorestframework
+django-cors-headers

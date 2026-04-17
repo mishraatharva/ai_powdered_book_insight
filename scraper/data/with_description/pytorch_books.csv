@@ -1,0 +1,500 @@
+asin,title,author,rating,reviews,url,description
+9365897254,"Practical Deep Learning with PyTorch: PyTorch implementation for computer vision, NLP, audio, and language translation",by Deepak Gowda | 8 April 2025,5.0 out of 5 stars,(1),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MDM1OTQxNjc0NjEyNjIzOjE3NzYxODQ4OTU6c3BfYXRmOjMwMDU2MTE3MzEyODgzMjo6MDo6&url=%2FPractical-Deep-Learning-PyTorch-implementation%2Fdp%2F9365897254%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c%26dib_tag%3Dse%26keywords%3Dpytorch%2Bbook%26qid%3D1776184895%26sr%3D8-1-spons%26aref%3DAGHtV4RG5x%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=AGHtV4RG5x&sp_cr=ZAZ,"The book begins with foundational deep learning concepts and guides you through setting up PyTorch. You will learn to manipulate tensors, load data, build models, and understand computer vision with multi-object detection using YOLO to enhance image recognition through transfer learning techniques. You will also analyze generative models with GANs for data augmentation and venture into audio processing with text-to-speech and speech-to-text using TorchAudio. Learn NLP tasks like text classification, summarization, sentiment analysis, and question answering with pre-trained models like BERT. Finally, learn to tackle time series forecasting using RNNs, LSTMs, CNNs, and transformers."
+1789614384,Mastering PyTorch: Build powerful neural network architectures using advanced PyTorch 1.x features,by Ashish Ranjan Jha | 12 February 2021,4.5 out of 5 stars,(41),https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MDM1OTQxNjc0NjEyNjIzOjE3NzYxODQ4OTU6c3BfYXRmOjMwMDE2MzkxNzgzNzAzMjo6MDo6&url=%2FMastering-PyTorch-powerful-architectures-advanced%2Fdp%2F1789614384%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c%26dib_tag%3Dse%26keywords%3Dpytorch%2Bbook%26qid%3D1776184895%26sr%3D8-2-spons%26aref%3DVFZwlDiUMW%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=VFZwlDiUMW&sp_cr=ZAZ,"Master advanced techniques and algorithms for deep learning with PyTorch using real-world examples
+
+Key Features
+
+- Understand how to use PyTorch 1.x to build advanced neural network models
+
+- Learn to perform a wide range of tasks by implementing deep learning algorithms and techniques
+
+- Gain expertise in domains such as computer vision, NLP, Deep RL, Explainable AI, and much more
+
+Book Description
+
+Deep learning is driving the AI revolution, and PyTorch is making it easier than ever before for anyone to build deep learning applications. This PyTorch book will help you uncover expert techniques to get the most out of your data and build complex neural network models.
+
+The book starts with a quick overview of PyTorch and explores using convolutional neural network (CNN) architectures for image classification. You'll then work with recurrent neural network (RNN) architectures and transformers for sentiment analysis. As you advance, you'll apply deep learning across different domains, such as music, text, and image generation using generative models and explore the world of generative adversarial networks (GANs). You'll not only build and train your own deep reinforcement learning models in PyTorch but also deploy PyTorch models to production using expert tips and techniques. Finally, you'll get to grips with training large models efficiently in a distributed manner, searching neural architectures effectively with AutoML, and rapidly prototyping models using PyTorch and fast.ai.
+
+By the end of this PyTorch book, you'll be able to perform complex deep learning tasks using PyTorch to build smart artificial intelligence models.
+
+What you will learn
+
+- Implement text and music generating models using PyTorch
+
+- Build a deep Q-network (DQN) model in PyTorch
+
+- Export universal PyTorch models using Open Neural Network Exchange (ONNX)
+
+- Become well-versed with rapid prototyping using PyTorch with fast.ai
+
+- Perform neural architecture search effectively using AutoML
+
+- Easily interpret machine learning (ML) models written in PyTorch using Captum
+
+- Design ResNets, LSTMs, Transformers, and more using PyTorch
+
+- Find out how to use PyTorch for distributed training using the torch.distributed API
+
+Who this book is for
+
+This book is for data scientists, machine learning researchers, and deep learning practitioners looking to implement advanced deep learning paradigms using PyTorch 1.x. Working knowledge of deep learning with Python programming is required.
+
+Table of Contents
+
+- Overview of Deep Learning Using PyTorch
+
+- Combining CNNs and LSTMs
+
+- Deep CNN Architectures
+
+- Deep Recurrent Model Architectures
+
+- Hybrid Advanced Models
+
+- Music and Text Generation with PyTorch
+
+- Neural Style Transfer
+
+- Deep Convolutional GANs
+
+- Deep Reinforcement Learning
+
+- Operationalizing Pytorch Models into Production
+
+- Distributed Training
+
+- PyTorch and AutoML
+
+- PyTorch and Explainable AI
+
+- Rapid Prototyping with PyTorch"
+9368082197,"Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems (Full Colour Indian Reprint)",by Aurelien Geron | 27 October 2025,4.5 out of 5 stars,(57),https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-PyTorch/dp/9368082197/ref=sr_1_3?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-3,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+The potential of machine learning today is extraordinary, yet many aspiring developers and tech professionals find themselves daunted by its complexity. Whether you're looking to enhance your skill set and apply machine learning to real-world projects or are simply curious about how AI systems function, this book is your jumping-off place.
+
+With an approachable yet deeply informative style, author Aurelien Geron delivers the ultimate introductory guide to machine learning and deep learning. Drawing on the Hugging Face ecosystem, with a focus on clear explanations and real-world examples, the book takes you through cutting-edge tools like Scikit-Learn and PyTorch from basic regression techniques to advanced neural networks. Whether you're a student, professional, or hobbyist, you'll gain the skills to build intelligent systems.
+
+Understand ML basics, including concepts like overfitting and hyperparameter tuning
+Complete an end-to-end ML project using scikit-Learn, covering everything from data exploration to model evaluation
+Learn techniques for unsupervised learning, such as clustering and anomaly detection
+Build advanced architectures like transformers and diffusion models with PyTorch
+Harness the power of pretrained models including LLMs and learn to fine-tune them
+Train autonomous agents using reinforcement learning"
+9358988851,"The StatQuest Illustrated Guide to Neural Networks and AI, with hands-on examples in PyTorch!!!",by Josh Starmer PhD | 27 December 2024,4.6 out of 5 stars,(46),https://www.amazon.in/StatQuest-Illustrated-Networks-examples-PyTorch/dp/9358988851/ref=sr_1_4?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-4,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+AI applications like ChatGPT can seem almost magical. A simple prompt can generate a new poem, or even write code for you. But how does this magic happen? That’s where The StatQuest Illustrated Guide to Neural Networks and AI comes in. This book takes the algorithms, no matter how complicated, and breaks them down into small, bite-sized pieces that are easy to understand. Each concept is clearly illustrated to provide you with an intuition about how the methods work that goes beyond the equations alone. The StatQuest Illustrated Guide does not dumb down the concepts. Instead, it builds you up, so you’re smarter and have a deeper understanding of neural networks and AI.
+
+The StatQuest Illustrated Guide to Neural Networks and AI starts with the basics, showing you how a simple neural network fits a shape to data and then builds from there, one step at a time, until you have mastered the concepts behind today’s revolution in AI. Furthermore, putting the theory into practice is easy because each major concept is paired with a PyTorch tutorial that teaches you how to code each neural network from scratch."
+9365898250,Building LLMs with PyTorch: A step-by-step guide to building advanced AI models with PyTorch (English Edition),by Anand Trivedi | 13 March 2025,4.7 out of 5 stars,(4),https://www.amazon.in/Building-LLMs-PyTorch-step-step/dp/9365898250/ref=sr_1_5?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-5,"DESCRIPTION
+
+PyTorch has become the go-to framework for building cutting-edge large language models (LLMs), enabling developers to harness the power of deep learning for natural language processing. This book serves as your practical guide to navigating the intricacies of PyTorch, empowering you to create your own LLMs from the ground up.
+
+You will begin by mastering PyTorch fundamentals, including tensors, autograd, and model creation, before diving into core neural network concepts like gradients, loss functions, and backpropagation. Progressing through regression and image classification with convolutional neural networks, you will then explore advanced image processing through object detection and segmentation. The book seamlessly transitions into NLP, covering RNNs, LSTMs, and attention mechanisms, culminating in the construction of Transformer-based LLMs, including a practical mini-GPT project. You will also get a strong understanding of generative models like VAEs and GANs.
+
+By the end of this book, you will possess the technical proficiency to build, train, and deploy sophisticated LLMs using PyTorch, equipping you to contribute to the rapidly evolving landscape of AI.
+
+WHAT YOU WILL LEARN
+
+● Build and train PyTorch models for linear and logistic regression.
+
+● Configure PyTorch environments and utilize GPU acceleration with CUDA.
+
+● Construct CNNs for image classification and apply transfer learning techniques.
+
+● Master PyTorch tensors, autograd, and build fundamental neural networks.
+
+● Utilize SSD and YOLO for object detection and perform image segmentation.
+
+● Develop RNNs and LSTMs for sequence modeling and text generation.
+
+WHO THIS BOOK IS FOR
+
+Software engineers, AI researchers, architects seeking AI insights, and professionals in finance, medical, engineering, and mathematics will find this book a comprehensive starting point, regardless of prior deep learning expertise."
+9352139097,Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications [Paperback] Ian Pointer,by Ian Pointer | 3 October 2019,4.2 out of 5 stars,(86),https://www.amazon.in/Programming-PyTorch-Deep-Learning-Applications/dp/9352139097/ref=sr_1_6?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-6,"All Indian Reprints of O'Reilly are printed in Grayscale.
+
+Deep learning is changing everything. This machine-learning method has already surpassed traditional computer vision techniques, and the same is happening with NLP. If you're looking to bring deep learning into your domain, this practical book will bring you up to speed on key concepts using Facebook's PyTorch framework.
+
+Once author Ian Pointer helps you set up PyTorch on a cloud-based environment, you'll learn how use the framework to create neural architectures for performing operations on images, sound, text, and other types of data. By the end of the book, you'll be able to create neural networks and train them on multiple types of data.
+
+Learn how to deploy deep learning models to production
+Explore PyTorch use cases in companies other than Facebook
+Learn how to apply transfer learning to images
+Apply cutting-edge NLP techniques using a model trained on Wikipedia"
+9365897254,"Practical Deep Learning with PyTorch: PyTorch implementation for computer vision, NLP, audio, and language translation",by Deepak Gowda | 8 April 2025,5.0 out of 5 stars,(1),https://www.amazon.in/Practical-Deep-Learning-PyTorch-implementation/dp/9365897254/ref=sr_1_7?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-7,"The book begins with foundational deep learning concepts and guides you through setting up PyTorch. You will learn to manipulate tensors, load data, build models, and understand computer vision with multi-object detection using YOLO to enhance image recognition through transfer learning techniques. You will also analyze generative models with GANs for data augmentation and venture into audio processing with text-to-speech and speech-to-text using TorchAudio. Learn NLP tasks like text classification, summarization, sentiment analysis, and question answering with pre-trained models like BERT. Finally, learn to tackle time series forecasting using RNNs, LSTMs, CNNs, and transformers."
+9355424272,Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD (Full Colour Edition),by Jeremy Howard and Sylvain Gugger | 16 July 2023,4.6 out of 5 stars,(604),https://www.amazon.in/Deep-Learning-Coders-Fastai-PyTorch/dp/9355424272/ref=sr_1_8?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-8,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications.
+
+Authors Jeremy Howard and Sylvain Gugger, the creators of fastai, show you how to train a model on a wide range of tasks using fastai and PyTorch. You’ll also dive progressively further into deep learning theory to gain a complete understanding of the algorithms behind the scenes.
+
+Train models in computer vision, natural language processing, tabular data, and collaborative filtering
+Learn the latest deep learning techniques that matter most in practice
+Improve accuracy, speed, and reliability by understanding how deep learning models work
+Discover how to turn your models into web applications
+Implement deep learning algorithms from scratch
+Consider the ethical implications of your work
+Gain insight from the foreword by PyTorch cofounder, Soumith Chintala"
+1801819319,Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python,"by Sebastian Raschka , Yuxi (Hayden) Liu , et al. | 25 February 2022",4.4 out of 5 stars,(469),https://www.amazon.in/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319/ref=sr_1_9?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-9,"This book of the bestselling and widely acclaimed Python Machine Learning series is a comprehensive guide to machine and deep learning using PyTorch s simple to code framework.
+
+Purchase of the print or Kindle book includes a free eBook in PDF format.
+
+Key Features:
+
+- Learn applied machine learning with a solid foundation in theory
+
+- Clear, intuitive explanations take you deep into the theory and practice of Python machine learning
+
+- Fully updated and expanded to cover PyTorch, transformers, XGBoost, graph neural networks, and best practices
+
+Book Description:
+
+Machine Learning with PyTorch and Scikit-Learn is a comprehensive guide to machine learning and deep learning with PyTorch. It acts as both a step-by-step tutorial and a reference you'll keep coming back to as you build your machine learning systems.
+
+Packed with clear explanations, visualizations, and examples, the book covers all the essential machine learning techniques in depth. While some books teach you only to follow instructions, with this machine learning book, we teach the principles allowing you to build models and applications for yourself.
+
+Why PyTorch?
+
+PyTorch is the Pythonic way to learn machine learning, making it easier to learn and simpler to code with. This book explains the essential parts of PyTorch and how to create models using popular libraries, such as PyTorch Lightning and PyTorch Geometric.
+
+You will also learn about generative adversarial networks (GANs) for generating new data and training intelligent agents with reinforcement learning. Finally, this new edition is expanded to cover the latest trends in deep learning, including graph neural networks and large-scale transformers used for natural language processing (NLP).
+
+This PyTorch book is your companion to machine learning with Python, whether you're a Python developer new to machine learning or want to deepen your knowledge of the latest developments.
+
+What You Will Learn:
+
+- Explore frameworks, models, and techniques for machines to learn from data
+
+- Use scikit-learn for machine learning and PyTorch for deep learning
+
+- Train machine learning classifiers on images, text, and more
+
+- Build and train neural networks, transformers, and boosting algorithms
+
+- Discover best practices for evaluating and tuning models
+
+- Predict continuous target outcomes using regression analysis
+
+- Dig deeper into textual and social media data using sentiment analysis
+
+Who this book is for:
+
+If you have a good grasp of Python basics and want to start learning about machine learning and deep learning, then this is the book for you. This is an essential resource written for developers and data scientists who want to create practical machine learning and deep learning applications using scikit-learn and PyTorch.
+
+Before you get started with this book, you'll need a good understanding of calculus, as well as linear algebra.
+
+Table of Contents
+
+- Giving Computers the Ability to Learn from Data
+
+- Training Simple Machine Learning Algorithms for Classification
+
+- A Tour of Machine Learning Classifiers Using Scikit-Learn
+
+- Building Good Training Datasets - Data Preprocessing
+
+- Compressing Data via Dimensionality Reduction
+
+- Learning Best Practices for Model Evaluation and Hyperparameter Tuning
+
+(N.B. Please use the Read Sample option to see further chapters)"
+9368087296,"AI Systems Performance Engineering: Optimizing Model Training and Inference Workloads with GPUs, CUDA, and PyTorch (Full Colour Indian Reprint)",by Chris Fregly | 21 November 2025,4.6 out of 5 stars,(28),https://www.amazon.in/Systems-Performance-Engineering-Optimizing-Inference/dp/9368087296/ref=sr_1_10?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-10,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs.
+
+Elevate your AI system performance capabilities with this definitive guide to maximizing efficiency across every layer of your AI infrastructure. In today's era of ever-growing generative models, AI Systems Performance Engineering provides engineers, researchers, and developers with a hands-on set of actionable optimization strategies. Learn to co-optimize hardware, software, and algorithms to build resilient, scalable, and cost-effective AI systems that excel in both training and inference. Authored by Chris Fregly, a performance-focused engineering and product leader, this resource transforms complex AI systems into streamlined, high-impact AI solutions.
+
+Inside, you'll discover step-by-step methodologies for fine-tuning GPU CUDA kernels, PyTorch-based algorithms, and multinode training and inference systems. You'll also master the art of scaling GPU clusters for high performance, distributed model training jobs, and inference servers. The book ends with a 175+ item checklist of proven, ready-to-use optimizations.
+
+Codesign and optimize hardware, software, and algorithms to achieve maximum throughput and cost savings
+Implement cutting-edge inference strategies that reduce latency and boost throughput in real-world settings
+Utilize industry-leading scalability tools and frameworks
+Profile, diagnose, and eliminate performance bottlenecks across complex AI pipelines
+Integrate full stack optimization techniques for robust, reliable AI system performance"
+936808646X,PyTorch Crash Course: Deep Learning Made Simple,by Sharanam Shah and Vaishali Shah | 26 December 2025,5.0 out of 5 stars,(1),https://www.amazon.in/PyTorch-Crash-Course-Learning-Simple/dp/936808646X/ref=sr_1_11?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-11,"PyTorch is not just a library. It is the operating system of the AI revolution.
+
+To the academic, it is complex calculus. To the modern engineer, it is the ultimate weapon for building self-driving cars, medical diagnostics, and Generative AI. This book hands you the keys to that weapon, guiding you from a blank code editor to a fine-tuned Large Language Model.
+
+Stop drowning in theory. Start shipping Intelligence.
+
+Most AI books leave you stuck in the Research Lab, memorizing equations you will never use. This book pulls you into the Engineering Workshop. It is not a lecture; it is a simulation. We strip away the academic noise and focus exclusively on the deliverables that get you hired.
+
+This book is all about deliverables. You will master
+
+The professional workshop: Configure a conflict-free Holy Trinity environment (VS Code, Python, PyTorch) and learn to toggle seamlessly between Local CPU, Local GPU, and Cloud runtimes.
+Deep Learning mechanics: Move beyond black boxes. Master Tensors to manipulate raw data and build a Gradient Descent simulator to visualize exactly how Autograd optimizes neural networks.
+Industrial data pipelines: A model is only as good as its fuel. Learn to build robust ETL Pipelines that ingest, clean, and batch messy realworld data using DataLoaders.
+Computer vision architecture: Don’t just import models; architect them. Build Convolutional Neural Networks (CNNs) that see, and use Transfer Learning to repurpose Google-grade brains for your own tasks.
+Natural Language Processing (NLP): Teach machines to read. Build a Sentiment Analyzer that understands human emotion using Recurrent Neural Networks (RNNs) and Transformers."
+1801074305,"Mastering PyTorch - Second Edition: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond",by Ashish Ranjan Jha | 31 May 2024,4.4 out of 5 stars,(49),https://www.amazon.in/Mastering-PyTorch-powerful-learning-architectures/dp/1801074305/ref=sr_1_12?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-12,"Master advanced techniques and algorithms for machine learning with PyTorch using real-world examples
+
+Updated for PyTorch 2.x, including integration with Hugging Face, mobile deployment, diffusion models, and graph neural networks
+
+Purchase of the print or Kindle book includes a free eBook in PDF format
+
+Key Features:
+
+- Understand how to use PyTorch to build advanced neural network models
+
+- Get the best from PyTorch by working with Hugging Face, fastai, PyTorch Lightning, PyTorch Geometric, Flask, and Docker
+
+- Unlock faster training with multiple GPUs and optimize model deployment using efficient inference frameworks
+
+Book Description:
+
+PyTorch is making it easier than ever before for anyone to build deep learning applications. This PyTorch deep learning book will help you uncover expert techniques to get the most out of your data and build complex neural network models.
+
+You'll build convolutional neural networks for image classification and recurrent neural networks and transformers for sentiment analysis. As you advance, you'll apply deep learning across different domains, such as music, text, and image generation, using generative models, including diffusion models. You'll not only build and train your own deep reinforcement learning models in PyTorch but also learn to optimize model training using multiple CPUs, GPUs, and mixed-precision training. You'll deploy PyTorch models to production, including mobile devices. Finally, you'll discover the PyTorch ecosystem and its rich set of libraries. These libraries will add another set of tools to your deep learning toolbelt, teaching you how to use fastai to prototype models and PyTorch Lightning to train models. You'll discover libraries for AutoML and explainable AI (XAI), create recommendation systems, and build language and vision transformers with Hugging Face.
+
+By the end of this book, you'll be able to perform complex deep learning tasks using PyTorch to build smart artificial intelligence models.
+
+What You Will Learn:
+
+- Implement text, vision, and music generation models using PyTorch
+
+- Build a deep Q-network (DQN) model in PyTorch
+
+- Deploy PyTorch models on mobile devices (Android and iOS)
+
+- Become well versed in rapid prototyping using PyTorch with fastai
+
+- Perform neural architecture search effectively using AutoML
+
+- Easily interpret machine learning models using Captum
+
+- Design ResNets, LSTMs, and graph neural networks (GNNs)
+
+- Create language and vision transformer models using Hugging Face
+
+Who this book is for:
+
+This deep learning with PyTorch book is for data scientists, machine learning engineers, machine learning researchers, and deep learning practitioners looking to implement advanced deep learning models using PyTorch. This book is ideal for those looking to switch from TensorFlow to PyTorch. Working knowledge of deep learning with Python is required.
+
+Table of Contents
+
+- Overview of Deep Learning using PyTorch
+
+- Deep CNN architectures
+
+- Combining CNNs and LSTMs
+
+- Deep Recurrent Model Architectures
+
+- Advanced Hybrid Models
+
+- Graph Neural Networks
+
+- Music and Text Generation with PyTorch
+
+- Neural Style Transfer
+
+- Deep Convolutional GANs
+
+- Deep Reinforcement Learning
+
+- Model Training Optimisations
+
+- Operationalizing PyTorch Models into Production
+
+- PyTorch on Mobile and Embedded Devices
+
+- Rapid Prototyping with PyTorch
+
+- PyTorch and AutoML
+
+- PyTorch and ExplainableAI
+
+- Recommendation systems with TorchRec
+
+- Recommendation systems with TorchRec
+
+- PyTorch x HuggingFace"
+9391043429,PyTorch Pocket Reference: Building and Deploying Deep Learning Models (Grayscale Indian Edition),by Joe Papa | 6 June 2021,4.4 out of 5 stars,(85),https://www.amazon.in/PyTorch-Pocket-Reference-Deploying-Grayscale/dp/9391043429/ref=sr_1_13?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-13,"Disclaimer
+
+Shroff Publishers do not endorse the preview pages of kindle linked to our ISBNs. All Indian Reprints of O'Reilly are Printed in Grayscale
+
+This concise, easy-to-use reference puts one of the most popular frameworks for deep learning research and development at your fingertips. Author Joe Papa provides instant access to syntax, design patterns, and code examples to accelerate your development and reduce the time you spend searching for answers.
+
+Research scientists, machine learning engineers, and software developers will find clear, structured PyTorch code that covers every step of neural network development’s from loading data to customizing training loops to model optimization and GPU/TPU acceleration. Quickly learn how to deploy your code to production using AWS, Google Cloud, or Azure and deploy your ML models to mobile and edge devices.
+
+Learn basic PyTorch syntax and design patterns
+Create custom models and data transforms
+Train and deploy models using a GPU and TPU"
+9355517491,"Building Transformer Models with PyTorch 2.0: NLP, computer vision, and speech processing with PyTorch and Hugging Face",by Prem Timsina | 11 April 2024,3.8 out of 5 stars,(19),https://www.amazon.in/Building-Transformer-Models-PyTorch-2-0/dp/9355517491/ref=sr_1_14?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-14,"This book covers transformer architecture for various applications including NLP, computer vision, speech processing, and predictive modeling with tabular data. It is a valuable resource for anyone looking to harness the power of transformer architecture in their machine learning projects. The book provides a step-by-step guide to building transformer models from scratch and fine-tuning pre-trained open-source models. It explores foundational model architecture, including GPT, VIT, Whisper, TabTransformer, Stable Diffusion, and the core principles for solving various problems with transformers. The book also covers transfer learning, model training, and fine-tuning, and discusses how to utilize recent models from Hugging Face."
+B0DT413SKG,The Hundred-Page Language Models Book: hands-on with PyTorch (The Hundred-Page Books),by Andriy Burkov | 14 January 2025,4.8 out of 5 stars,(87),https://www.amazon.in/Hundred-Page-Language-Models-Book-hands-ebook/dp/B0DT413SKG/ref=sr_1_15?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-15,"WARNING: will not work on e-ink Kindle devices and will not resize!
+
+Master language models through mathematics, illustrations, and code―and build your own from scratch!
+
+The Hundred-Page Language Models Book by Andriy Burkov, the follow-up to his bestselling The Hundred-Page Machine Learning Book (now in 12 languages), offers a concise yet thorough journey from language modeling fundamentals to the cutting edge of modern Large Language Models (LLMs). Within Andriy's famous ""hundred-page"" format, readers will master both theoretical concepts and practical implementations, making it an invaluable resource for developers, data scientists, and machine learning engineers.
+
+The Hundred-Page Language Models Book allows you to:
+
+- Master the mathematical foundations of modern machine learning and neural networks
+- Build and train three architectures of language models in Python
+- Understand and code a Transformer language model from scratch in PyTorch
+- Work with LLMs, including instruction finetuning and prompt engineering
+
+Written in a hands-on style with working Python code examples, this book progressively builds your understanding from basic machine learning concepts to advanced language model architectures. All code examples run on Google Colab, making it accessible to anyone with a modern laptop.
+
+About the technology
+
+Language models have evolved from simple n-gram statistics to become one of the most transformative technologies in AI, rivaling only personal computers in their impact. This book spans the complete evolution—from count-based methods to modern Transformer architectures—delivering a thorough understanding of both how these models work and how to implement them.
+
+About the book
+
+The Hundred-Page Language Models Book takes a unique approach by introducing language modeling concepts gradually, starting with foundational methods before advancing to modern architectures. Each chapter builds upon the previous one, making complex concepts accessible through clear explanations, diagrams, and practical implementations.
+
+What's inside
+
+- Essential machine learning and neural network fundamentals
+- Text representation techniques and basic language modeling
+- Implementation of RNNs and Transformer architectures with PyTorch
+- Practical guidance on finetuning language models and prompt engineering
+- Important considerations on hallucinations and ways to evaluate models
+- Additional resources for advanced topics through the book's wiki
+
+The complete code and additional resources are available through the book's website at thelmbook.com/wiki.
+
+About the reader
+
+Readers should have programming experience in Python. While familiarity with PyTorch and tensors is helpful, it's not required. College-level math knowledge is beneficial, but the book presents mathematical concepts intuitively with clear examples and diagrams.
+
+Endorsements from tech and AI leaders
+
+Vint Cerf, Internet pioneer and Turing Award recipient: ""This book cleared up a lot of conceptual confusion for me about how Machine Learning actually works - it is a gem of clarity.""
+
+Tomáš Mikolov, the author of word2vec and FastText: ""The book is a good start for anyone new to language modeling who aspires to improve on state of the art.""
+
+Florian Douetteau, co-founder and CEO at Dataiku: ""Andriy paints for us, in 100 marvelous strokes, the journey from linear algebra basics to the implementation of transformers.""
+
+Jerry Liu, co-founder and CEO at LlamaIndex: ""This is one of the most comprehensive yet concise handbooks out there for truly understanding how LLMs work under the hood.""
+
+More endorsements from AI leaders on thelmbook.com."
+1803231335,Modern Computer Vision with PyTorch - Second Edition: A practical roadmap from deep learning fundamentals to advanced applications and Generative AI,by V Kishore Ayyadevara and Yeshwanth Reddy | 10 June 2024,4.1 out of 5 stars,(44),https://www.amazon.in/Modern-Computer-Vision-PyTorch-comprehensive/dp/1803231335/ref=sr_1_16?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-16,"The definitive computer vision book is back, featuring the latest neural network architectures and an exploration of foundation and diffusion models
+
+Purchase of the print or Kindle book includes a free eBook in PDF format
+
+Key Features
+
+- Understand the inner workings of various neural network architectures and their implementation, including image classification, object detection, segmentation, generative adversarial networks, transformers, and diffusion models
+
+- Build solutions for real-world computer vision problems using PyTorch
+
+- All the code files are available on GitHub and can be run on Google Colab
+
+Book Description
+
+Whether you are a beginner or are looking to progress in your computer vision career, this book guides you through the fundamentals of neural networks (NNs) and PyTorch and how to implement state-of-the-art architectures for real-world tasks.
+
+The second edition of Modern Computer Vision with PyTorch is fully updated to explain and provide practical examples of the latest multimodal models, CLIP, and Stable Diffusion.
+
+You'll discover best practices for working with images, tweaking hyperparameters, and moving models into production. As you progress, you'll implement various use cases for facial keypoint recognition, multi-object detection, segmentation, and human pose detection. This book provides a solid foundation in image generation as you explore different GAN architectures. You'll leverage transformer-based architectures like ViT, TrOCR, BLIP2, and LayoutLM to perform various real-world tasks and build a diffusion model from scratch. Additionally, you'll utilize foundation models' capabilities to perform zero-shot object detection and image segmentation. Finally, you'll learn best practices for deploying a model to production.
+
+By the end of this deep learning book, you'll confidently leverage modern NN architectures to solve real-world computer vision problems.
+
+What you will learn
+
+- Get to grips with various transformer-based architectures for computer vision, CLIP, Segment-Anything, and Stable Diffusion, and test their applications, such as in-painting and pose transfer
+
+- Combine CV with NLP to perform OCR, key-value extraction from document images, visual question-answering, and generative AI tasks
+
+- Implement multi-object detection and segmentation
+
+- Leverage foundation models to perform object detection and segmentation without any training data points
+
+- Learn best practices for moving a model to production
+
+Who this book is for
+
+This book is for beginners to PyTorch and intermediate-level machine learning practitioners who want to learn computer vision techniques using deep learning and PyTorch. It's useful for those just getting started with neural networks, as it will enable readers to learn from real-world use cases accompanied by notebooks on GitHub. Basic knowledge of the Python programming language and ML is all you need to get started with this book. For more experienced computer vision scientists, this book takes you through more advanced models in the latter part of the book.
+
+Table of Contents
+
+- Artificial Neural Network Fundamentals
+
+- PyTorch Fundamentals
+
+- Building a Deep Neural Network with PyTorch
+
+- Introducing Convolutional Neural Networks
+
+- Transfer Learning for Image Classification
+
+- Practical Aspects of Image Classification
+
+- Basics of Object Detection
+
+- Advanced Object Detection
+
+- Image Segmentation
+
+- Applications of Object Detection and Segmentation
+
+- Autoencoders and Image Manipulation
+
+- Image Generation Using GANs
+
+(N.B. Please use the Read Sample option to see further chapters)"
+1633438856,Deep Learning With Pytorch: Training and Applying Deep Learning and Generative Ai Models,"by Luca Antiga, Eli Stevens , et al. | 10 March 2026",5.0 out of 5 stars,(1),https://www.amazon.in/Deep-Learning-Pytorch-Training-Generative/dp/1633438856/ref=sr_1_17?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-17,"Get a free eBook (PDF or ePub) from Manning as well as access to the online liveBook format (and its AI assistant that will answer your questions in any language) when you purchase the print book.
+
+PyTorch core developer Howard Huang updates the bestselling original Deep Learning with PyTorch with new insights into the transformers architecture and generative AI models.
+
+Instantly familiar to anyone who knows PyData tools like NumPy, PyTorch simplifies deep learning without sacrificing advanced features. In this book you’ll learn how to create your own neural network and deep learning systems and take full advantage of PyTorch’s built-in tools for automatic differentiation, hardware acceleration, distributed training, and more. You’ll discover how easy PyTorch makes it to build your entire DL pipeline, including using the PyTorch Tensor API, loading data in Python, monitoring training, and visualizing results. Each new technique you learn is put into action with practical code examples in each chapter, culminating into you building your own convolution neural networks, transformers, and even a real-world medical image classifier.
+
+In Deep Learning with PyTorch, Second Edition you’ll find:
+
+• Deep learning fundamentals reinforced with hands-on projects
+• Mastering PyTorch's flexible APIs for neural network development
+• Implementing CNNs, transformers, and diffusion models
+• Optimizing models for training and deployment
+• Generative AI models to create images and text
+
+About the technology
+
+The powerful PyTorch library makes deep learning simple—without sacrificing the features you need to create efficient neural networks, LLMs, and other ML models. Pythonic by design, it’s instantly familiar to users of NumPy, Scikit-learn, and other ML frameworks. This thoroughly-revised second edition covers the latest PyTorch innovations, including how to create and refine generative AI models.
+
+About the book
+
+Deep Learning with PyTorch, Second Edition shows you how to build neural network models using the latest version of PyTorch. Clear explanations and practical projects help you master the fundamentals and explore advanced architectures including transformers and LLMs. Along the way you’ll learn techniques for training using augmented data, improving model architecture, and fine tuning.
+
+What's inside
+
+• PyTorch APIs for neural network development
+• LLMs, transformers, and diffusion models
+• Model training and deployment
+
+About the reader
+
+For Python programmers with a background in machine learning.
+
+About the author
+
+Howard Huang is a software engineer and developer on the PyTorch library focusing on large scale, distributed training. Eli Stevens, Luca Antiga, and Thomas Viehmann authored the first edition of Deep Learning with PyTorch.
+
+Table of Contents
+
+Part 1
+1 Introducing deep learning and the PyTorch library
+2 Pretrained networks
+3 It starts with a tensor
+4 Real-world data representation using tensors
+5 The mechanics of learning
+6 Using a neural network to fit the data
+7 Telling birds from airplanes: Learning from images
+8 Using convolutions to generalize
+Part 2
+9 How transformers work
+10 Diffusion models for images
+11 Using PyTorch to fight cancer
+12 Combining data sources into a unified dataset
+13 Training a classification model to detect suspected tumors
+14 Improving training with metrics and augmentation
+15 Using segmentation to find suspected nodules
+16 Training models on multiple GPU"
+1617295264,"Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools","by Eli Stevens , Luca Antiga, et al. | 4 August 2020",4.4 out of 5 stars,(140),https://www.amazon.in/Deep-Learning-Pytorch-Eli-Stevens/dp/1617295264/ref=sr_1_18?dib=eyJ2IjoiMSJ9.bMsHjdXR78DpXIYUGr30PAJjwpu_4kG8ZfNEGxtfWBddJbAb2vIR3rdOUDR2cnuvMV53fOQLabOx0_GIbuCMEAn27oKQGUfc6EojJTdNtRy3M7GQWoMwladruuDp7ARWWmu3-sZ3HcffH_lP5yYFalIZ_3dCqTgFj-O-5LeGPBiclJYMCkqgTAhQdArBBQ1AQG1Z-41HZsXjmwYTknDv2WfRo98iJ_sf_brlVhnReM0.1acwzjGYqRTogUR792kiMdWwFX5N61Ag6UegpB6655c&dib_tag=se&keywords=pytorch+book&qid=1776184895&sr=8-18,"“We finally have the definitive treatise on PyTorch! It covers the basics and abstractions in great detail. I hope this book becomes your extended reference document.” —Soumith Chintala, co-creator of PyTorch Key Features Written by PyTorch’s creator and key contributors Develop deep learning models in a familiar Pythonic way Use PyTorch to build an image classifier for cancer detection Diagnose problems with your neural network and improve training with data augmentation Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.About The Book Every other day we hear about new ways to put deep learning to good use: improved medical imaging, accurate credit card fraud detection, long range weather forecasting, and more. PyTorch puts these superpowers in your hands. Instantly familiar to anyone who knows Python data tools like NumPy and Scikit-learn, PyTorch simplifies deep learning without sacrificing advanced features. It’s great for building quick models, and it scales smoothly from laptop to enterprise. Deep Learning with PyTorch teaches you to create deep learning and neural network systems with PyTorch. This practical book gets you to work right away building a tumor image classifier from scratch. After covering the basics, you’ll learn best practices for the entire deep learning pipeline, tackling advanced projects as your PyTorch skills become more sophisticated. All code samples are easy to explore in downloadable Jupyter notebooks. What You Will Learn Understanding deep learning data structures such as tensors and neural networks Best practices for the PyTorch Tensor API, loading data in Python, and visualizing results Implementing modules and loss functions Utilizing pretrained models from PyTorch Hub Methods for training networks with limited inputs Sifting through unreliable results to diagnose and fix problems in your neural network Improve your results with augmented data, better model architecture, and fine tuning This Book Is Written For For Python programmers with an interest in machine learning. No experience with PyTorch or other deep learning frameworks is required. About The Authors Eli Stevens has worked in Silicon Valley for the past 15 years as a software engineer, and the past 7 years as Chief Technical Officer of a startup making medical device software. Luca Antiga is co-founder and CEO of an AI engineering company located in Bergamo, Italy, and a regular contributor to PyTorch. Thomas Viehmann is a Machine Learning and PyTorch speciality trainer and consultant based in Munich, Germany and a PyTorch core developer. Table of Contents PART 1 - CORE PYTORCH 1 Introducing deep learning and the PyTorch Library 2 Pretrained networks 3 It starts with a tensor 4 Real-world data representation using tensors 5 The mechanics of learning 6 Using a neural network to fit the data 7 Telling birds from airplanes: Learning from images 8 Using convolutions to generalize PART 2 - LEARNING FROM IMAGES IN THE REAL WORLD: EARLY DETECTION OF LUNG CANCER 9 Using PyTorch to fight cancer 10 Combining data sources into a unified dataset 11 Training a classification model to detect suspected tumors 12 Improving training with metrics and augmentation 13 Using segmentation to find suspected nodules 14 End-to-end nodule analysis, and where to go next PART 3 - DEPLOYMENT 15 Deploying to production"
