@@ -127,10 +127,18 @@ Content-Type: application/json
 
 ## UI Screenshots
 
-The `images/` folder contains the frontend UI screenshots for the project:
+The `images/` folder contains the frontend UI screenshots for the project.
 
-- `book_list.png` — book listing page
-- `book_details.png` — book detail view
-- `chat.png` — chat interface page
+### Book listing page
 
-Use these images as visual references for the application UI and frontend flow.
+![Book List](images/book_list.png)
+
+### Book detail view
+
+![Book Detail](images/book_details.png)
+
+### Chat interface page
+
+![Chat Interface](images/chat.png)
+
+Use these screenshots as visual references for the application UI and frontend flow.
